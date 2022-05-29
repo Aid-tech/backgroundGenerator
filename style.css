@@ -1,0 +1,9 @@
+body{
+    background: linear-gradient(to right, green , teal);
+}
+.container{
+    text-align: center;
+}
+h1{
+    letter-spacing: 20px;
+}
